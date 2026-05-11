@@ -1,6 +1,6 @@
 # LinkedList Implementation in Java
 
-A beginner-friendly Java project demonstrating the usage of LinkedList from the Java Collection Framework using Eclipse IDE.
+A beginner-friendly Java project demonstrating the usage of LinkedList using Eclipse IDE.
 This project helps in understanding how linked lists work dynamically and how elements can be inserted, removed, and traversed efficiently.
 
 ---
