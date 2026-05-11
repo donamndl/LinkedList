@@ -1,7 +1,7 @@
 # LinkedList Implementation in Java
 
-A beginner-friendly Java project demonstrating the usage of LinkedList using Eclipse IDE.
-This project helps in understanding how linked lists work dynamically and how elements can be inserted, removed, and traversed efficiently.
+This repository contains a simple Java implementation of LinkedList.
+It demonstrates basic operations such as insertion, deletion, traversal, and element access using Eclipse IDE.
 
 ---
 
